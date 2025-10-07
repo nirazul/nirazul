@@ -10,7 +10,10 @@
   <br>
   Implementation of demanding and robust interfaces for web and app projects.
 </p>
-<p><a href="https://adorable-squid.ch">adorable-squid.ch</a>
+<p>
+  <a href="https://adorable-squid.ch">adorable-squid.ch
+  </a>
+</p>
 <span role="img">🦑</span>
 
 <!--
