@@ -1,5 +1,6 @@
 ## Hello, this is Adorable Squid 👋
 
+<!-- https://github.com/Ileriayo/markdown-badges -->
 [![LinkedIn: nirazul](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirazul/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/nirazul.bsky.social)
 
