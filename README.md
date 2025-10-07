@@ -1,10 +1,11 @@
 ## Hello, this is Adorable Squid 👋
 
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDk5OXFpdXUyN3p4eDVidmY0ZWxsOGo5MGgycTl6YWRoOGU0YjV5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a0jfzBanfgOH7SK9tm/giphy.gif" width="256" alt="Adorable Squid" />
+
 <!-- https://github.com/Ileriayo/markdown-badges -->
 [![LinkedIn: nirazul](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirazul/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/nirazul.bsky.social)
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDk5OXFpdXUyN3p4eDVidmY0ZWxsOGo5MGgycTl6YWRoOGU0YjV5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a0jfzBanfgOH7SK9tm/giphy.gif" width="256" alt="Adorable Squid" />
 <p>
   Web engineering and interaction design studio based in Zurich. 
   <br>
